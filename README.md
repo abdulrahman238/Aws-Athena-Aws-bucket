@@ -16,7 +16,7 @@ Raw Data → S3 (Raw Layer) → Athena (Query Layer) → S3 (Results Layer)
 
 ---
 #ATHENA OVERVIEW
-
+![Alt Text](athena_coffee.png)
 
 ## ⚙️ Tools & Services
 - **Amazon S3** – Store raw and processed data  
