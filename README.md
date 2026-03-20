@@ -12,10 +12,7 @@ This workflow is ideal for lightweight data analysis and reporting without compl
 
 ## 🏗️ Architecture / Workflow
 
-<p align="center">
-  <img src="Data_Workflow.png" alt="Data Workflow" width="200px">
-</p>
-
+![Student Warehouse](student_warehouse.png)
 **Flow:**  
 Raw Data → S3 (Raw Layer) → Athena (Query Layer) → S3 (Results Layer)
 
