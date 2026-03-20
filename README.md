@@ -12,7 +12,7 @@ This workflow is ideal for lightweight data analysis and reporting without compl
 
 ## 🏗️ Architecture / Workflow
 
-![Workflow Diagram](./diagram.png)
+![AWS Data Pipeline](./athena_coffee.png){width=20%}
 
 **Flow:**  
 Raw Data → S3 (Raw Layer) → Athena (Query Layer) → S3 (Results Layer)
