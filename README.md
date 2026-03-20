@@ -25,8 +25,7 @@ Raw Data → S3 (Raw Layer) → Athena (Query Layer) → S3 (Results Layer)
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Pages
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
