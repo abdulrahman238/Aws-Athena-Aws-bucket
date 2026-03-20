@@ -7,14 +7,16 @@ This project demonstrates a simple and efficient data pipeline using AWS.
 The pipeline takes raw CSV data, stores it in Amazon S3, queries it using Amazon Athena, and saves the results back to S3.  
 
 ---
+## **Flow:**  
+Raw Data → S3 (Raw Layer) → Athena (Query Layer) → S3 (Results Layer)
+
 
 ## 🏗️ Architecture / Workflow
 
 ![Alt Text](aws_workflow.jpg)
 
 
-## **Flow:**  
-Raw Data → S3 (Raw Layer) → Athena (Query Layer) → S3 (Results Layer)
+
 
 ## ATHENA OVERVIEW
 ![Alt Text](athena_coffee.png)
