@@ -13,11 +13,10 @@ The pipeline takes raw CSV data, stores it in Amazon S3, queries it using Amazon
 ![Alt Text](aws_workflow.jpg)
 
 
-##**Flow:**  
+## **Flow:**  
 Raw Data → S3 (Raw Layer) → Athena (Query Layer) → S3 (Results Layer)
 
----
-##ATHENA OVERVIEW
+## ATHENA OVERVIEW
 ![Alt Text](athena_coffee.png)
 
 ## ⚙️ Tools & Services
