@@ -12,7 +12,7 @@ This workflow is ideal for lightweight data analysis and reporting without compl
 
 ## 🏗️ Architecture / Workflow
 
-![Student Warehouse](aws workflow.jpg)
+![Alt Text](image_path_or_URL)
 **Flow:**  
 Raw Data → S3 (Raw Layer) → Athena (Query Layer) → S3 (Results Layer)
 
